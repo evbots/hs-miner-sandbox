@@ -1,3 +1,5 @@
 ## hs-miner sandbox
 
-`node run`
+`nvm use 10.14`
+
+`node --experimental-modules run`

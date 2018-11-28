@@ -1,4 +1,4 @@
-const miner = require('hs-miner');
+import miner from 'hs-miner';
 
 async function runMineBlock() {
   // Header without the appended solution.
